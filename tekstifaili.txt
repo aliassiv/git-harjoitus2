@@ -1,1 +1,1 @@
-Tämä tekstifaili on lisätty repositorioon git-harjoitus2.
+Tämä tekstifaili on lisätty repositorioon git-harjoitus2. Tämä lause lisätty local tiedostoon.
